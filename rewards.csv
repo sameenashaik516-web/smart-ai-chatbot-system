@@ -1,0 +1,17 @@
+question,response,reward,timestamp
+test,test,1,2026-07-14 14:00:00
+test,test,1,2026-07-14 14:01:00
+test,test,1,2026-07-14 14:02:00
+what are the courses available,"[AI Assistant] NRIIT offers B.Tech, M.Tech, MBA, and MCA programs in various departments including CSE, AI & ML, Data Science, ECE, IT, Civil, and VLSI.",1,2026-07-14 14:03:00
+what are the courses available,"[AI Assistant] NRIIT offers B.Tech, M.Tech, MBA, and MCA programs in various departments including CSE, AI & ML, Data Science, ECE, IT, Civil, and VLSI.",-1,2026-07-14 14:04:00
+hii,[AI Assistant] Welcome to NRI Institute of Technology.,1,2026-07-14 14:05:00
+test,test,1,2026-07-14 14:06:00
+test,test,1,2026-07-14 14:07:00
+test,test,1,2026-07-14 14:08:00
+test,test,1,2026-07-14 14:09:00
+test,test,-1,2026-07-14 14:10:00
+test,test,1,2026-07-14 14:11:00
+test,test,1,2026-07-14 14:12:00
+test,test,-1,2026-07-14 14:13:00
+test,test,1,2026-07-14 14:14:00
+test,test,-1,2026-07-14 14:15:00

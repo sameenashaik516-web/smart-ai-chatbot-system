@@ -1,0 +1,243 @@
+{
+  "intents": [
+
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good evening"
+      ],
+      "responses": [
+        "Hello! Welcome to NRIIT Official AI Assistant.",
+        "Hi! How can I assist you today?",
+        "Welcome to NRI Institute of Technology."
+      ]
+    },
+
+    {
+      "tag": "about_college",
+      "patterns": [
+        "Tell me about NRIIT",
+        "What is NRIIT",
+        "About college",
+        "College information"
+      ],
+      "responses": [
+        "NRI Institute of Technology, popularly known as NRIIT, was established in 2008 in Visadala Village, Andhra Pradesh. It provides quality engineering and management education with modern infrastructure and placement opportunities."
+      ]
+    },
+
+    {
+      "tag": "chairman",
+      "patterns": [
+        "Who is chairman",
+        "Chairman name",
+        "Founder of college"
+      ],
+      "responses": [
+        "NRI Institute of Technology was established under the leadership of Sri Alapati Ravindra."
+      ]
+    },
+
+    {
+      "tag": "location",
+      "patterns": [
+        "Where is NRIIT located",
+        "College location",
+        "Address of NRIIT"
+      ],
+      "responses": [
+        "NRI Institute of Technology is located at Visadala Road, Perecherla, Guntur, Andhra Pradesh."
+      ]
+    },
+
+    {
+      "tag": "courses",
+      "patterns": [
+        "What courses are available",
+        "Courses offered",
+        "Departments",
+        "Available branches"
+        "seminar hall",
+      ],
+      "responses": [
+        "NRIIT offers B.Tech, M.Tech, MBA, and MCA programs in various departments including CSE, AI & ML, Data Science, ECE, IT, Civil, and VLSI, seminar halls, labs."
+      ]
+    },
+
+    {
+      "tag": "mca",
+      "patterns": [
+        "Tell me about MCA",
+        "MCA course details",
+        "Is MCA available"
+      ],
+      "responses": [
+        "Yes, NRIIT offers a Master of Computer Applications (MCA) program with focus on software development, programming, AI, and industry-oriented skills."
+      ]
+    },
+
+    {
+      "tag": "placements",
+      "patterns": [
+        "Placement details",
+        "Placements in NRIIT",
+        "Placement opportunities",
+        "Companies visiting campus"
+      ],
+      "responses": [
+        "NRIIT provides placement training, coding practice, aptitude sessions, mock interviews, and recruitment opportunities with reputed companies."
+      ]
+    },
+
+    {
+      "tag": "placement_companies",
+      "patterns": [
+        "Top recruiters",
+        "Placement companies",
+        "Which companies visit NRIIT"
+      ],
+      "responses": [
+        "Companies like Infosys, Wipro, IBM, TCS, Capgemini, Deloitte, Virtusa, HCL, and Tech Mahindra have been associated with placements and training activities."
+      ]
+    },
+
+    {
+      "tag": "labs",
+      "patterns": [
+        "Laboratories",
+        "Research labs",
+        "AI lab",
+        "Computer labs"
+      ],
+      "responses": [
+        "NRIIT provides AI & ML Labs, IoT Labs, Cloud & DevOps Labs, Software Engineering Labs, and advanced computer laboratories."
+      ]
+    },
+
+    {
+      "tag": "facilities",
+      "patterns": [
+        "Campus facilities",
+        "Facilities in college",
+        "Infrastructure"
+      ],
+      "responses": [
+        "NRIIT provides modern classrooms, laboratories, auditorium, transport facility, library, canteen, sports grounds, hostel, and power backup."
+      ]
+    },
+
+    {
+      "tag": "hostel",
+      "patterns": [
+        "Hostel available",
+        "Hostel facility",
+        "Accommodation"
+      ],
+      "responses": [
+        "Yes, hostel facilities are available for both boys and girls with necessary amenities."
+      ]
+    },
+
+    {
+      "tag": "transport",
+      "patterns": [
+        "Bus facility",
+        "Transport available",
+        "College buses"
+      ],
+      "responses": [
+        "NRIIT provides transport facilities covering various routes for students and staff."
+      ]
+    },
+
+    {
+      "tag": "library",
+      "patterns": [
+        "Library details",
+        "Does college have library",
+        "Digital library"
+      ],
+      "responses": [
+        "NRIIT has a well-equipped library with digital resources, journals, NPTEL content, National Digital Library access, and research materials."
+      ]
+    },
+
+    {
+      "tag": "admissions",
+      "patterns": [
+        "Admission process",
+        "How to join NRIIT",
+        "Admissions",
+        "Eligibility"
+      ],
+      "responses": [
+        "Admissions at NRIIT are based on entrance exams and eligibility criteria prescribed by the authorities and university norms."
+      ]
+    },
+
+    {
+      "tag": "autonomous",
+      "patterns": [
+        "Is NRIIT autonomous",
+        "Autonomous status",
+        "Affiliation details"
+      ],
+      "responses": [
+        "NRIIT is an autonomous institution affiliated with JNTUK and approved by AICTE."
+      ]
+    },
+
+    {
+      "tag": "vision",
+      "patterns": [
+        "Vision of NRIIT",
+        "College vision"
+      ],
+      "responses": [
+        "The vision of NRIIT is to become a reputed institution producing competitive, ethical, and socially responsible professionals."
+      ]
+    },
+
+    {
+      "tag": "mission",
+      "patterns": [
+        "Mission of NRIIT",
+        "College mission"
+      ],
+      "responses": [
+        "NRIIT aims to provide quality education, industry interaction, research opportunities, and development of ethics and leadership skills."
+      ]
+    },
+
+    {
+      "tag": "contact",
+      "patterns": [
+        "Contact details",
+        "Phone number",
+        "College contact"
+      ],
+      "responses": [
+        "For admissions and enquiries, you can contact NRIIT through the official administration office."
+      ]
+    },
+
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you later"
+      ],
+      "responses": [
+        "Thank you for visiting NRIIT AI Assistant.",
+        "Goodbye! Have a great day.",
+        "Thank you. Visit again."
+      ]
+    }
+
+  ]
+}
